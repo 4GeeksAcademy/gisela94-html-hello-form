@@ -1,0 +1,11 @@
+div form {
+    padding: 50px;
+}
+
+.buttons {
+    text-align: right;
+}
+
+.amount {
+    display: block;
+}
